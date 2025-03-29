@@ -178,3 +178,6 @@ projectflow.txt
 local_s3/
 data_/
 models/
+eksctl.exe
+kubectl.exe
+eksctl.zip
